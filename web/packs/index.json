@@ -1,6 +1,7 @@
 {
   "packs": [
-    "line_s169005054e4c_by_moe_sticker_bot.json"
+    "line_s169005054e4c_by_moe_sticker_bot.json",
+    "pusheenvol1.json"
   ],
   "homeserver_url": "https://matrix.xiaoxi654.xyz"
 }
